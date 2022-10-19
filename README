@@ -1,0 +1,3 @@
+### Sample Terraform project
+
+It shows how to automatically create VMs in Yandex Cloud using Terraform.
